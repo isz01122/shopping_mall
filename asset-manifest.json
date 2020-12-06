@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/shopping_mall/static/css/main.32592298.chunk.css",
-    "main.js": "/shopping_mall/static/js/main.4f69f1b6.chunk.js",
-    "main.js.map": "/shopping_mall/static/js/main.4f69f1b6.chunk.js.map",
-    "runtime-main.js": "/shopping_mall/static/js/runtime-main.60d47f74.js",
-    "runtime-main.js.map": "/shopping_mall/static/js/runtime-main.60d47f74.js.map",
-    "static/js/2.79008f18.chunk.js": "/shopping_mall/static/js/2.79008f18.chunk.js",
-    "static/js/2.79008f18.chunk.js.map": "/shopping_mall/static/js/2.79008f18.chunk.js.map",
-    "static/js/3.d6280232.chunk.js": "/shopping_mall/static/js/3.d6280232.chunk.js",
-    "static/js/3.d6280232.chunk.js.map": "/shopping_mall/static/js/3.d6280232.chunk.js.map",
+    "main.css": "/shopping_mall/static/css/main.bad932f9.chunk.css",
+    "main.js": "/shopping_mall/static/js/main.21303010.chunk.js",
+    "main.js.map": "/shopping_mall/static/js/main.21303010.chunk.js.map",
+    "runtime-main.js": "/shopping_mall/static/js/runtime-main.fdea8003.js",
+    "runtime-main.js.map": "/shopping_mall/static/js/runtime-main.fdea8003.js.map",
+    "static/js/2.c2ad79df.chunk.js": "/shopping_mall/static/js/2.c2ad79df.chunk.js",
+    "static/js/2.c2ad79df.chunk.js.map": "/shopping_mall/static/js/2.c2ad79df.chunk.js.map",
+    "static/js/3.4d6af64b.chunk.js": "/shopping_mall/static/js/3.4d6af64b.chunk.js",
+    "static/js/3.4d6af64b.chunk.js.map": "/shopping_mall/static/js/3.4d6af64b.chunk.js.map",
     "index.html": "/shopping_mall/index.html",
-    "static/css/main.32592298.chunk.css.map": "/shopping_mall/static/css/main.32592298.chunk.css.map",
-    "static/js/2.79008f18.chunk.js.LICENSE.txt": "/shopping_mall/static/js/2.79008f18.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/shopping_mall/static/media/background.739617fe.jpg",
+    "static/css/main.bad932f9.chunk.css.map": "/shopping_mall/static/css/main.bad932f9.chunk.css.map",
+    "static/js/2.c2ad79df.chunk.js.LICENSE.txt": "/shopping_mall/static/js/2.c2ad79df.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/shopping_mall/static/media/background.4ba676b1.png",
     "static/media/logo.6ce24c58.svg": "/shopping_mall/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.60d47f74.js",
-    "static/js/2.79008f18.chunk.js",
-    "static/css/main.32592298.chunk.css",
-    "static/js/main.4f69f1b6.chunk.js"
+    "static/js/runtime-main.fdea8003.js",
+    "static/js/2.c2ad79df.chunk.js",
+    "static/css/main.bad932f9.chunk.css",
+    "static/js/main.21303010.chunk.js"
   ]
 }
