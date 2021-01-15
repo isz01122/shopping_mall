@@ -1,18 +1,16 @@
-# Shopping Mall 2020(panding...)
+# Shopping Mall 2020
 
-React JS Shopping Mall 2020
+React JS Fundamentals Shopping Mall 2020
 
 ## Features
 
+- [x] Functional Programming
 - [x] JSX
 - [x] Bootstrap
-- [x] State
-- [x] Props
-- [x] Effect
-- [x] History
-- [x] Params
-- [x] Data Binding
-- [x] Routing
+- [x] React
+- [x] Hooks(useState, useEffect, useHistory, useParams)
+- [x] Redux(Provider, combineReducers, createStore, connect)
+- [x] Router(HashRouter, Link, Route, Switch)
 
 ## Try it out
 

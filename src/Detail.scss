@@ -1,5 +1,14 @@
 $메인칼라: #000000;
 
+.wow-enter {
+  opacity: 0;
+}
+
+.wow-enter-active {
+  opacity: 1;
+  transition: all 500ms;
+}
+
 .red {
   color: $메인칼라;
 }
@@ -20,6 +29,7 @@ $메인칼라: #000000;
 .my-alert2 {
   @extend .my-alert;
   background: #ffe591;
+  position: relative;
 }
 
 .my-alert p {
